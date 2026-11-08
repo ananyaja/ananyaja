@@ -1,6 +1,8 @@
 # Ananyaja Debadipta
 ### Independent Data Analysis Researcher & Technical Writer
 
+> "I help people make sense of data, code, and technical documentation. Whether you are building a Python script, cleaning up an exploratory data analysis pipeline, or trying to explain a complex technical system clearly, I am here to help. I believe in honest, straightforward work and clear communication."
+
 Welcome to my professional GitHub profile. I am an independent researcher and technical writer focused on data analysis, Python scripting, numerical computing, and instrumentation systems. 
 
 My work centers on building practical, verifiable proof-of-concept repositories—ranging from clinical exploratory data analysis (EDA) pipelines and numerical optimization models to system inspection utilities and technical documentation.
